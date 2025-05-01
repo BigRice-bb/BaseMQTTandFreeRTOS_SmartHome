@@ -1,0 +1,9 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'F103_Moduel'
+compiling main.c...
+linking...
+Program Size: Code=32180 RO-data=1396 RW-data=184 ZI-data=40480  
+FromELF: creating hex file...
+After Build - User command #1: fromelf  --text  -a -c  --output=all.dis    F103_Moduel\F103_Moduel.axf
+"F103_Moduel\F103_Moduel.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:03
